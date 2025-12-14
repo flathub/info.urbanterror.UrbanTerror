@@ -39,6 +39,8 @@ modules:
         commit: cabd3370b32fb46dba33a8eda79162448923d896
       - type: patch
         path: freedesktop.patch
+      - type: patch
+        path: freedesktop2.patch
       - type: file
         url: https://raw.githubusercontent.com/FrozenSand/ioq3-for-UrbanTerror-4/0a51d9ef7d11052303a30cc43f0bb8c90167b004/misc/freedesktop/urbanterror.png
         sha256: e3b3c7f8e959358fcb3e6134226fdbcd25a85579230348f95cda92586b4f3827
